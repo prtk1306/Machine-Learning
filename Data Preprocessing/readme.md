@@ -1,4 +1,7 @@
-**** Data Preprocessing ****
+![alt text](https://github.com/prtk1306/MachineLearning/blob/master/ML%20Logo.PNG "Machine Learning")
+
+
+** Data Preprocessing **
 
 To build any  Machine Learning model, the very first task is to make any data ready before applying any machine learning model on it. Hence, in this model, we are going to see data preprocessing steps using a sklearn (short form of scikit-learn) library.
 
