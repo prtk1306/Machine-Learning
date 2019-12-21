@@ -11,6 +11,6 @@ Data Preprocessing steps:
 5. Splitting the input data into a Training set and a Testing set
 6. Feature Scaling (not applicable in few models)
 
-We will see a demonstration with the help of a small demo dataset which is attached here.
+We will see a demonstration with the help of a small demo dataset which is attached within the folder.
 ![alt text](https://github.com/prtk1306/MachineLearning/blob/master/ML%20Logo.PNG "Machine Learning")
 
