@@ -1,4 +1,4 @@
-Welcome, all to my Machine Learning Repository folder. Here we will see demonstrations for all the machine learning models in detail. Please find the help file (readme.md) and respective dataset for a specific machine learning algorithm demo.
+Welcome, all, to my Machine Learning Repository folder. Here, we will see demonstrations for all the machine learning models in detail. Please find the help file (readme.md) and respective dataset (*.csv, etc.) for a specific machine learning algorithm in their respective folder.
 
 Please find the ML algorithms below:
 
