@@ -4,6 +4,8 @@ Please find the ML algorithms below:
 
 1. Data Preprocessing
 2. Simple Linear Regression
+3. Multiple Linear Regression
+
 
 ![alt text](https://github.com/prtk1306/MachineLearning/blob/master/ML%20Logo.PNG "Machine Learning")
 
