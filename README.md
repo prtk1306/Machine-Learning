@@ -14,7 +14,8 @@ Please find the ML algorithms below:
 |8.| Decision Tree Regression|https://github.com/prtk1306/MachineLearning/tree/master/Decision%20Tree%20Regression|
 |9.| Random Forest|https://github.com/prtk1306/MachineLearning/tree/master/Random%20Forest|
 |10.| Logistic Regression|https://github.com/prtk1306/MachineLearning/tree/master/Logistic%20Regression|
-
+|11.| K-Nearest Neighbors (K-NN)|https://github.com/prtk1306/MachineLearning/tree/master/K-Nearest%20Neighbors%20(K-NN)|
+|12.|Support Vector Machine (Classification)|https://github.com/prtk1306/MachineLearning/tree/master/Support%20Vector%20Machine%20(Classification)|
 
 ![alt text](https://github.com/prtk1306/MachineLearning/blob/master/ML%20Logo.PNG "Machine Learning")
 
