@@ -4,7 +4,7 @@ In statistics, stepwise regression is a method of fitting regression models in w
 
 Backward elimination, which involves starting with all candidate variables, testing the deletion of each variable using a chosen model fit criterion, deleting the variable (if any) whose loss gives the most statistically insignificant deterioration of the model fit, and repeating this process until no further variables can be deleted without a statistically significant loss of fit.
 
-Demo: Using automatic Backward Elimination model selection method , choose the best subset of regressors among various spends like R&D, Administration, Marketing, and the State in which the company operates, to predict the profit variable for a given company.
+**Case study:** Using automatic Backward Elimination model selection method , choose the best subset of regressors among various spends like R&D, Administration, Marketing, and the State in which the company operates, to predict the profit variable for a given company.
 
 Please find the dataset attached!
 

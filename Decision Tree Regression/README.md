@@ -4,7 +4,7 @@ Decision tree learning is one of the predictive modeling approaches used in stat
 
 In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data (but the resulting classification tree can be an input for decision making). This page deals with decision trees in data mining.
 
-Case study: To predict the salary of an ex-employee who claims to be on the Region Manager Level with $160000 Salary. Predict if the employee is honest or not. Use Decision Tree Regression algorithm and predict the Salary of an ex-employee and check whether an employee is lying or not. 
+**Case study:** To predict the salary of an ex-employee who claims to be on the Region Manager Level with $160000 Salary. Predict if the employee is honest or not. Use Decision Tree Regression algorithm and predict the Salary of an ex-employee and check whether an employee is lying or not. 
 
 Please find the dataset attached!
 
