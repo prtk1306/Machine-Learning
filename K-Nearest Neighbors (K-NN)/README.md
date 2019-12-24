@@ -12,7 +12,7 @@ The neighbors are taken from a set of objects for which the class (for k-NN clas
 
 A peculiarity of the k-NN algorithm is that it is sensitive to the local structure of the data.
 
-Case study: An automobile company wants to predict through a campaign whether a person will purchase a new SUV launched at a very reasonable price based on that person's Age and Salary, based on the results, the company will target those who fall under the category of purchasing the SUV. The outcome would be '0' means the person will NOT purchase the SUV, and '1' if that person will purchase the SUV. Use the K-Nearest Neighbors (KNN) model and predict the outcome of the case study. 
+**Case study:** An automobile company wants to predict through a campaign whether a person will purchase a new SUV launched at a very reasonable price based on that person's Age and Salary, based on the results, the company will target those who fall under the category of purchasing the SUV. The outcome would be '0' means the person will NOT purchase the SUV, and '1' if that person will purchase the SUV. Use the K-Nearest Neighbors (KNN) model and predict the outcome of the case study. 
 
 Please find the dataset attached!
 
