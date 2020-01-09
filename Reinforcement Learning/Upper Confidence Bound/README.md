@@ -23,14 +23,23 @@ For each round t = K:
 Let Nt(a) represent the number of times action a was played so far
 Play the action at maximising the following expression:
 
+<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/09/im_19.jpg"
+     style="float: center; margin-right: 10px;" />
+
 
 Observe the reward and update the mean reward or expected payoff for the chosen action
 We will not go into the mathematical proof for UCB. However, it is important to understand the expression that corresponds to our selected action. Remember, in the random exploration we just had Q(a) to maximise, while here we have two terms. First is the action value function, while the second is the confidence term.
 
 Each time a is selected, the uncertainty is presumably reduced: Nt(a) increments, and, as it appears in the denominator, the uncertainty term decreases.
 
+<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/09/im_20-300x105.jpg"
+     style="float: center; margin-right: 10px;" />
+
 
 On the other hand, each time an action other than a is selected, t increases, but Nt(a) does not; because t appears in the numerator, the uncertainty estimate increases.
+
+<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/09/im_21-300x90.jpg"
+     style="float: center; margin-right: 10px;" />
 
 
 The use of the natural logarithm means that the increases get smaller over time; all actions will eventually be selected, but actions with lower value estimates, or that have already been selected frequently, will be selected with decreasing frequency over time.
